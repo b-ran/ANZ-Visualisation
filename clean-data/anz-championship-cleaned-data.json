@@ -1,0 +1,3719 @@
+[
+ {
+   "Round": 1,
+   "Date": "Saturday 5 April 2008",
+   "Home Team": "Central Pulse",
+   "Home Score": 33,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 50,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 6 April 2008",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 48,
+   "Away Team": "West Coast Fever",
+   "Away Score": 46,
+   "Venue": "Brisbane Convention & Exhibition Centre"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 6 April 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 44,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 48,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 7 April 2008",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 46,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 42,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 7 April 2008",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 53,
+   "Away Team": "Southern Steel",
+   "Away Score": 42,
+   "Venue": "Acer Arena, Sydney"
+ },
+ {
+   "Round": 2,
+   "Date": "Saturday 12 April 2008",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 50,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 44,
+   "Venue": "Westpac Centre, Christchurch"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 13 April 2008 ",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 62,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 52,
+   "Venue": "State Netball and Hockey Centre,Melbourne"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 13 April 2008 ",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 56,
+   "Away Team": "Northern Mystics",
+   "Away Score": 52,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 14 April 2008 ",
+   "Home Team": "Central Pulse",
+   "Home Score": 50,
+   "Away Team": "Southern Steel",
+   "Away Score": 52,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 14 April 2008 ",
+   "Home Team": "West Coast Fever",
+   "Home Score": 41,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 54,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 3,
+   "Date": "Saturday 19 April 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 45,
+   "Away Team": "West Coast Fever",
+   "Away Score": 49,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 3,
+   "Date": "Saturday 19 April 2008",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 50,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 47,
+   "Venue": "Newcastle Entertainment Centre"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 20 April 2008 ",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 38,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 39,
+   "Venue": "Vodafone Arena, Melbourne"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 21 April 2008 ",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 42,
+   "Away Team": "Southern Steel",
+   "Away Score": 51,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 21 April 2008 ",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 56,
+   "Away Team": "Central Pulse",
+   "Away Score": 28,
+   "Venue": "Brisbane Convention & Exhibition Centre"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 26 April 2008",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 61,
+   "Away Team": "West Coast Fever",
+   "Away Score": 47,
+   "Venue": "Mystery Creek Events Centre,Hamilton"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 26 April 2008",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 46,
+   "Away Team": "Northern Mystics",
+   "Away Score": 40,
+   "Venue": "Brisbane Convention & Exhibition Centre"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 27 April 2008 ",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 54,
+   "Away Team": "Southern Steel",
+   "Away Score": 41,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 28 April 2008 ",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 50,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 58,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 28 April 2008 ",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 59,
+   "Away Team": "Central Pulse",
+   "Away Score": 30,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 5,
+   "Date": "Saturday 3 May 2008",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 54,
+   "Away Team": "Central Pulse",
+   "Away Score": 37,
+   "Venue": "Mystery Creek Events Centre,Hamilton"
+ },
+ {
+   "Round": 5,
+   "Date": "Saturday 3 May 2008",
+   "Home Team": "West Coast Fever",
+   "Home Score": 46,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 65,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 5 May 2008",
+   "Home Team": "Southern Steel",
+   "Home Score": 48,
+   "Away Team": "Northern Mystics",
+   "Away Score": 50,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 5 May 2008",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 52,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 53,
+   "Venue": "Newcastle Entertainment Centre"
+ },
+ {
+   "Round": 6,
+   "Date": "Saturday 10 May 2008 ",
+   "Home Team": "Southern Steel",
+   "Home Score": 48,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 51,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 6,
+   "Date": "Saturday 10 May 2008 ",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 66,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 52,
+   "Venue": "Brisbane Convention & Exhibition Centre"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 12 May 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 45,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 59,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 12 May 2008",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 66,
+   "Away Team": "West Coast Fever",
+   "Away Score": 50,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 7,
+   "Date": "Saturday 17 May 2008 ",
+   "Home Team": "Central Pulse",
+   "Home Score": 50,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 55,
+   "Venue": "Arena Manawatu, Palmerston North"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 18 May 2008",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 46,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 52,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 19 May 2008",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 56,
+   "Away Team": "Southern Steel",
+   "Away Score": 47,
+   "Venue": "Mystery Creek Events Centre,Hamilton"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 19 May 2008",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 66,
+   "Away Team": "West Coast Fever",
+   "Away Score": 54,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 8,
+   "Date": "Saturday 24 May 2008 ",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 50,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 54,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 25 May 2008",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 60,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 51,
+   "Venue": "Brisbane Convention & Exhibition Centre"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 26 May 2008",
+   "Home Team": "Central Pulse",
+   "Home Score": 48,
+   "Away Team": "Northern Mystics",
+   "Away Score": 54,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 26 May 2008",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 44,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 50,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 9,
+   "Date": "Saturday 31 May 2008 ",
+   "Home Team": "Southern Steel",
+   "Home Score": 41,
+   "Away Team": "Central Pulse",
+   "Away Score": 29,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 1 June 2008",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 57,
+   "Away Team": "West Coast Fever",
+   "Away Score": 44,
+   "Venue": "State Netball and Hockey Centre,Melbourne"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 2 June 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 50,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 46,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 2 June 2008",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 41,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 47,
+   "Venue": "Brisbane Convention & Exhibition Centre"
+ },
+ {
+   "Round": 10,
+   "Date": "Saturday 7 June 2008 ",
+   "Home Team": "Southern Steel",
+   "Home Score": 47,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 46,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 8 June 2008",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 61,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 41,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 8 June 2008",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 56,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 50,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 9 June 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 62,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 64,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 9 June 2008",
+   "Home Team": "West Coast Fever",
+   "Home Score": 33,
+   "Away Team": "Central Pulse",
+   "Away Score": 16,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 11,
+   "Date": "Saturday 14 June 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 47,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 48,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 15 June 2008",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 61,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 60,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 15 June 2008",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 50,
+   "Away Team": "Central Pulse",
+   "Away Score": 49,
+   "Venue": "Westpac Centre, Christchurch"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 16 June 2008",
+   "Home Team": "Southern Steel",
+   "Home Score": 58,
+   "Away Team": "West Coast Fever",
+   "Away Score": 43,
+   "Venue": "Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 16 June 2008",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 47,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 40,
+   "Venue": "State Netball and Hockey Centre,Melbourne"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 21 June 2008",
+   "Home Team": "Central Pulse",
+   "Home Score": 41,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 46,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 21 June 2008",
+   "Home Team": "West Coast Fever",
+   "Home Score": 48,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 54,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 22 June 2008",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 50,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 36,
+   "Venue": "Brisbane Convention & Exhibition Centre"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 23 June 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 47,
+   "Away Team": "Southern Steel",
+   "Away Score": 41,
+   "Venue": "North Shore Events Centre, Auckland"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 23 June 2008",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 51,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 41,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 13,
+   "Date": "Saturday 28 June 2008",
+   "Home Team": "Northern Mystics",
+   "Home Score": 42,
+   "Away Team": "Central Pulse",
+   "Away Score": 28,
+   "Venue": "North Shore Events Centre, Auckland"
+ },
+ {
+   "Round": 13,
+   "Date": "Saturday 28 June 2008",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 66,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 47,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 29 June 2008",
+   "Home Team": "West Coast Fever",
+   "Home Score": 50,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 44,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 30 June 2008",
+   "Home Team": "Southern Steel",
+   "Home Score": 47,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 43,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 30 June 2008",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 49,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 62,
+   "Venue": "Vodafone Arena, Melbourne"
+ },
+ {
+   "Round": 14,
+   "Date": "Saturday 5 July 2008 ",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 69,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 44,
+   "Venue": "Mystery Creek Events Centre,Hamilton"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 6 July 2008",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 56,
+   "Away Team": "Northern Mystics",
+   "Away Score": 47,
+   "Venue": "Vodafone Arena, Melbourne"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 6 July 2008",
+   "Home Team": "Southern Steel",
+   "Home Score": 54,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 52,
+   "Venue": "Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 7 July 2008",
+   "Home Team": "Central Pulse",
+   "Home Score": 32,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 44,
+   "Venue": "Pettigrew Green Arena, Napier"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 7 July 2008",
+   "Home Team": "West Coast Fever",
+   "Home Score": 54,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 63,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 15,
+   "Date": "Sunday 13 July 2008",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 56,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 57,
+   "Venue": "Mystery Creek Events Centre,Hamilton"
+ },
+ {
+   "Round": 15,
+   "Date": "Monday 14 July 2008",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 53,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 48,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 16,
+   "Date": "Monday 21 July 2008",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 51,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 49,
+   "Venue": "Mystery Creek Events Centre,Hamilton"
+ },
+ {
+   "Round": 17,
+   "Date": "Monday 28 July 2008",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 65,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 56,
+   "Venue": "Acer Arena, Sydney"
+ },
+ {
+   "Round": 1,
+   "Date": "Saturday 4 April 2009",
+   "Home Team": "Southern Steel",
+   "Home Score": 55,
+   "Away Team": "Central Pulse",
+   "Away Score": 46,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 1,
+   "Date": "Saturday 4 April 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 57,
+   "Away Team": "West Coast Fever",
+   "Away Score": 44,
+   "Venue": "State Netball and Hockey Centre, Melbourne"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 5 April 2009",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 48,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 60,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 6 April 2009",
+   "Home Team": "Northern Mystics",
+   "Home Score": 38,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 51,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 6 April 2009",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 62,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 45,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 2,
+   "Date": "Saturday 11 April 2009",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 54,
+   "Away Team": "Southern Steel",
+   "Away Score": 47,
+   "Venue": "Queen Elizabeth Youth Centre, Tauranga"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 12 April 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 48,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 47,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 12 April 2009",
+   "Home Team": "Northern Mystics",
+   "Home Score": 54,
+   "Away Team": "Central Pulse",
+   "Away Score": 50,
+   "Venue": "North Shore Events Centre, Auckland"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 13 April 2009",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 52,
+   "Away Team": "West Coast Fever",
+   "Away Score": 44,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 13 April 2009",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 51,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 54,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 3,
+   "Date": "Saturday 18 April 2009",
+   "Home Team": "Central Pulse",
+   "Home Score": 46,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 58,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 19 April 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 43,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 49,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 19 April 2009",
+   "Home Team": "Southern Steel",
+   "Home Score": 52,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 48,
+   "Venue": "The Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 20 April 2009",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 63,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 45,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 20 April 2009",
+   "Home Team": "West Coast Fever",
+   "Home Score": 57,
+   "Away Team": "Northern Mystics",
+   "Away Score": 46,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 25 April 2009",
+   "Home Team": "Central Pulse",
+   "Home Score": 54,
+   "Away Team": "West Coast Fever",
+   "Away Score": 60,
+   "Venue": "Arena Manawatu, Palmerston North"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 25 April 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 48,
+   "Away Team": "Southern Steel",
+   "Away Score": 31,
+   "Venue": "State Netball and Hockey Centre, Melbourne"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 26 April 2009",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 53,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 42,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 27 April 2009",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 48,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 53,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 27 April 2009",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 59,
+   "Away Team": "Northern Mystics",
+   "Away Score": 55,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 5,
+   "Date": "Saturday 2 May 2009",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 48,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 50,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 3 May 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 50,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 42,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 4 May 2009",
+   "Home Team": "Central Pulse",
+   "Home Score": 60,
+   "Away Team": "Northern Mystics",
+   "Away Score": 61,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 4 May 2009",
+   "Home Team": "West Coast Fever",
+   "Home Score": 67,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 66,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 6,
+   "Date": "Saturday 9 May 2009",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 59,
+   "Away Team": "Central Pulse",
+   "Away Score": 36,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 10 May 2009",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 40,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 51,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 11 May 2009",
+   "Home Team": "Northern Mystics",
+   "Home Score": 52,
+   "Away Team": "Southern Steel",
+   "Away Score": 61,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 11 May 2009",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 56,
+   "Away Team": "West Coast Fever",
+   "Away Score": 53,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 7,
+   "Date": "Saturday 16 May 2009",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 47,
+   "Away Team": "Southern Steel",
+   "Away Score": 48,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 17 May 2009",
+   "Home Team": "West Coast Fever",
+   "Home Score": 49,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 74,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 18 May 2009",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 50,
+   "Away Team": "Northern Mystics",
+   "Away Score": 35,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 18 May 2009",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 54,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 58,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 8,
+   "Date": "Saturday 23 May 2009",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 49,
+   "Away Team": "Central Pulse",
+   "Away Score": 46,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 24 May 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 51,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 50,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 25 May 2009",
+   "Home Team": "Southern Steel",
+   "Home Score": 39,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 48,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 25 May 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 65,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 63,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 9,
+   "Date": "Saturday 30 May 2009",
+   "Home Team": "Central Pulse",
+   "Home Score": 44,
+   "Away Team": "Southern Steel",
+   "Away Score": 66,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 31 May 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 57,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 53,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 1 June 2009",
+   "Home Team": "Northern Mystics",
+   "Home Score": 47,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 46,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 1 June 2009",
+   "Home Team": "West Coast Fever",
+   "Home Score": 41,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 61,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 10,
+   "Date": "Saturday 6 June 2009",
+   "Home Team": "Central Pulse",
+   "Home Score": 45,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 59,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 10,
+   "Date": "Saturday 6 June 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 58,
+   "Away Team": "Northern Mystics",
+   "Away Score": 34,
+   "Venue": "Adelaide Arena, Adelaide"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 7 June 2009",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 62,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 61,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 8 June 2009",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 55,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 48,
+   "Venue": "Queen Elizabeth Youth Centre, Tauranga"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 8 June 2009",
+   "Home Team": "West Coast Fever",
+   "Home Score": 59,
+   "Away Team": "Southern Steel",
+   "Away Score": 48,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 11,
+   "Date": "Saturday 13 June 2009",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 53,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 46,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 14 June 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 58,
+   "Away Team": "West Coast Fever",
+   "Away Score": 39,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 14 June 2009",
+   "Home Team": "Central Pulse",
+   "Home Score": 35,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 67,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 15 June 2009",
+   "Home Team": "Southern Steel",
+   "Home Score": 52,
+   "Away Team": "Northern Mystics",
+   "Away Score": 50,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 15 June 2009",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 52,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 63,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 20 June 2009",
+   "Home Team": "Northern Mystics",
+   "Home Score": 57,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 61,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 20 June 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 70,
+   "Away Team": "Central Pulse",
+   "Away Score": 40,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 21 June 2009",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 60,
+   "Away Team": "West Coast Fever",
+   "Away Score": 63,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 22 June 2009",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 50,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 46,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 22 June 2009",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 52,
+   "Away Team": "Southern Steel",
+   "Away Score": 50,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 13,
+   "Date": "Saturday 27 June 2009",
+   "Home Team": "Northern Mystics",
+   "Home Score": 57,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 59,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 28 June 2009",
+   "Home Team": "West Coast Fever",
+   "Home Score": 38,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 49,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 28 June 2009",
+   "Home Team": "Central Pulse",
+   "Home Score": 53,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 52,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 29 June 2009",
+   "Home Team": "Southern Steel",
+   "Home Score": 58,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 49,
+   "Venue": "The Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 29 June 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 63,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 35,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 14,
+   "Date": "Saturday 4 July 2009",
+   "Home Team": "Southern Steel",
+   "Home Score": 55,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 48,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 14,
+   "Date": "Saturday 4 July 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 80,
+   "Away Team": "Central Pulse",
+   "Away Score": 39,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 5 July 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 54,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 35,
+   "Venue": "Adelaide Arena, Adelaide"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 6 July 2009",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 63,
+   "Away Team": "Northern Mystics",
+   "Away Score": 56,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 6 July 2009",
+   "Home Team": "West Coast Fever",
+   "Home Score": 52,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 54,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 15,
+   "Date": "Sunday 12 July 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 58,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 43,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 15,
+   "Date": "Monday 13 July 2009",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 51,
+   "Away Team": "Southern Steel",
+   "Away Score": 45,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 16,
+   "Date": "Sunday 19 July 2009",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 37,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 51,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 17,
+   "Date": "Sunday 26 July 2009",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 54,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 46,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 1,
+   "Date": "Saturday 20 March 2010",
+   "Home Team": "Northern Mystics",
+   "Home Score": 55,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 52,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 21 March 2010",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 47,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 50,
+   "Venue": "Gold Coast Convention and Exhibition Centre"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 21 March 2010",
+   "Home Team": "Southern Steel",
+   "Home Score": 46,
+   "Away Team": "West Coast Fever",
+   "Away Score": 44,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 22 March 2010",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 54,
+   "Away Team": "Central Pulse",
+   "Away Score": 48,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 22 March 2010",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 48,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 40,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 2,
+   "Date": "Saturday 27 March 2010",
+   "Home Team": "Central Pulse",
+   "Home Score": 50,
+   "Away Team": "Northern Mystics",
+   "Away Score": 61,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 2,
+   "Date": "Saturday 27 March 2010",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 38,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 45,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 28 March 2010",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 53,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 46,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 29 March 2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 47,
+   "Away Team": "Southern Steel",
+   "Away Score": 41,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 29 March 2010",
+   "Home Team": "West Coast Fever",
+   "Home Score": 62,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 44,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 3,
+   "Date": "Saturday 3 April 2010",
+   "Home Team": "Northern Mystics",
+   "Home Score": 46,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 55,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 4 April 2010",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 40,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 41,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 4 April 2010",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 53,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 56,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 5 April 2010",
+   "Home Team": "Southern Steel",
+   "Home Score": 56,
+   "Away Team": "Central Pulse",
+   "Away Score": 44,
+   "Venue": "Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 5 April 2010",
+   "Home Team": "West Coast Fever",
+   "Home Score": 50,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 64,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 10 April 2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 55,
+   "Away Team": "West Coast Fever",
+   "Away Score": 50,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 10 April 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 50,
+   "Away Team": "Central Pulse",
+   "Away Score": 36,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 11 April 2010",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 53,
+   "Away Team": "Southern Steel",
+   "Away Score": 36,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 12 April 2010",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 49,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 64,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 12 April 2010",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 71,
+   "Away Team": "Northern Mystics",
+   "Away Score": 54,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 5,
+   "Date": "Saturday 17 April 2010",
+   "Home Team": "Central Pulse",
+   "Home Score": 40,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 75,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 18 April 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 55,
+   "Away Team": "West Coast Fever",
+   "Away Score": 43,
+   "Venue": "Newcastle Entertainment Centre"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 18 April 2010",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 36,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 53,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 19 April 2010",
+   "Home Team": "Southern Steel",
+   "Home Score": 41,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 56,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 19 April 2010",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 62,
+   "Away Team": "Northern Mystics",
+   "Away Score": 51,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 6,
+   "Date": "Saturday 24 April 2010",
+   "Home Team": "Northern Mystics",
+   "Home Score": 59,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 50,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 25 April 2010",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 62,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 41,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 26 April 2010",
+   "Home Team": "Central Pulse",
+   "Home Score": 40,
+   "Away Team": "Southern Steel",
+   "Away Score": 64,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 26 April 2010",
+   "Home Team": "West Coast Fever",
+   "Home Score": 37,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 57,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 7,
+   "Date": "Saturday 1 May 2010",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 38,
+   "Away Team": "Southern Steel",
+   "Away Score": 66,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 2 May  2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 56,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 42,
+   "Venue": "Acer Arena, Sydney"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 3 May  2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 49,
+   "Away Team": "Northern Mystics",
+   "Away Score": 46,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 3 May  2010",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 63,
+   "Away Team": "West Coast Fever",
+   "Away Score": 57,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 8,
+   "Date": "Saturday 8 May 2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 56,
+   "Away Team": "Central Pulse",
+   "Away Score": 44,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 9 May 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 60,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 44,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 10 May 2010",
+   "Home Team": "Southern Steel",
+   "Home Score": 49,
+   "Away Team": "Northern Mystics",
+   "Away Score": 52,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 10 May 2010",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 53,
+   "Away Team": "West Coast Fever",
+   "Away Score": 56,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 9,
+   "Date": "Saturday 15 May 2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 72,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 52,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 16 May 2010",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 58,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 47,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 17 May 2010",
+   "Home Team": "Northern Mystics",
+   "Home Score": 61,
+   "Away Team": "Central Pulse",
+   "Away Score": 60,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 17 May 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 44,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 40,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 10,
+   "Date": "Saturday 22 May 2010",
+   "Home Team": "Central Pulse",
+   "Home Score": 45,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 43,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 23 May 2010",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 53,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 51,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 24 May 2010",
+   "Home Team": "Southern Steel",
+   "Home Score": 52,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 47,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 24 May 2010",
+   "Home Team": "West Coast Fever",
+   "Home Score": 52,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 61,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 11,
+   "Date": "Saturday 29 May 2010",
+   "Home Team": "Northern Mystics",
+   "Home Score": 48,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 54,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 30 May 2010",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 58,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 34,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 30 May 2010",
+   "Home Team": "Southern Steel",
+   "Home Score": 52,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 39,
+   "Venue": "Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 31 May 2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 54,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 55,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 31 May 2010",
+   "Home Team": "West Coast Fever",
+   "Home Score": 63,
+   "Away Team": "Central Pulse",
+   "Away Score": 45,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 5 June 2010",
+   "Home Team": "Northern Mystics",
+   "Home Score": 62,
+   "Away Team": "West Coast Fever",
+   "Away Score": 53,
+   "Venue": "North Shore Events Centre, Auckland"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 5 June 2010",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 52,
+   "Away Team": "Central Pulse",
+   "Away Score": 42,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 6 June 2010",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 43,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 54,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 7 June 2010",
+   "Home Team": "Southern Steel",
+   "Home Score": 53,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 39,
+   "Venue": "Stadium Southland, Invercargill"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 7 June 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 60,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 43,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 13,
+   "Date": "Saturday 12 June 2010",
+   "Home Team": "Central Pulse",
+   "Home Score": 52,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 58,
+   "Venue": "Pettigrew Green Arena, Napier"
+ },
+ {
+   "Round": 13,
+   "Date": "Saturday 12 June 2010",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 46,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 58,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 13 June 2010",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 54,
+   "Away Team": "West Coast Fever",
+   "Away Score": 45,
+   "Venue": "Adelaide Arena, Adelaide"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 14 June 2010",
+   "Home Team": "Northern Mystics",
+   "Home Score": 43,
+   "Away Team": "Southern Steel",
+   "Away Score": 50,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 14 June 2010",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 75,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 32,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 14,
+   "Date": "Saturday 19 June 2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 53,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 44,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 20 June 2010",
+   "Home Team": "West Coast Fever",
+   "Home Score": 67,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 59,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 20 June 2010",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 47,
+   "Away Team": "Northern Mystics",
+   "Away Score": 58,
+   "Venue": "Westpac Arena, Christchurch"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 21 June 2010",
+   "Home Team": "Central Pulse",
+   "Home Score": 48,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 49,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 21 June 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 55,
+   "Away Team": "Southern Steel",
+   "Away Score": 38,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 15,
+   "Date": "Sunday 27 June 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 38,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 52,
+   "Venue": "Acer Arena, Sydney"
+ },
+ {
+   "Round": 15,
+   "Date": "Monday 28 June 2010",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 50,
+   "Away Team": "Southern Steel",
+   "Away Score": 42,
+   "Venue": "Vector Arena, Auckland "
+ },
+ {
+   "Round": 16,
+   "Date": "Sunday 4 July 2010",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 49,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 54,
+   "Venue": "Newcastle Entertainment Centre"
+ },
+ {
+   "Round": 17,
+   "Date": "Sunday 11 July 2010",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 52,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 42,
+   "Venue": "Adelaide Entertainment Centre"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 13 February 2011",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 60,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 40,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 14 February 2011",
+   "Home Team": "Northern Mystics",
+   "Home Score": 51,
+   "Away Team": "Southern Steel",
+   "Away Score": 34,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 2,
+   "Date": "Saturday 19 February 2011",
+   "Home Team": "Central Pulse",
+   "Home Score": 44,
+   "Away Team": "Northern Mystics",
+   "Away Score": 54,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 20 February 2011",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 47,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 65,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 20 February 2011",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 51,
+   "Away Team": "Southern Steel",
+   "Away Score": 36,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 21 February 2011",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 48,
+   "Away Team": "West Coast Fever",
+   "Away Score": 54,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 21 February 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 51,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 48,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 3,
+   "Date": "Thursday 24 February 2011",
+   "Home Team": "Northern Mystics",
+   "Home Score": 39,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 45,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 3,
+   "Date": "Thursday 24 February 2011",
+   "Home Team": "West Coast Fever",
+   "Home Score": 53,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 72,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 3,
+   "Date": "Saturday 26 February 2011",
+   "Home Team": "Central Pulse",
+   "Home Score": 43,
+   "Away Team": "Southern Steel",
+   "Away Score": 45,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 3,
+   "Date": "Saturday 26 February 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 64,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 41,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 27 February 2011",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 45,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 49,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 3,
+   "Date": "Thursday 7 April 2011",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 45,
+   "Away Team": "Northern Mystics",
+   "Away Score": 58,
+   "Venue": "Vector Arena, Auckland"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 28 February 2011",
+   "Home Team": "Central Pulse",
+   "Home Score": 44,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 46,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 28 February 2011",
+   "Home Team": "West Coast Fever",
+   "Home Score": 38,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 62,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 5 March 2011",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 51,
+   "Away Team": "Central Pulse",
+   "Away Score": 41,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 6 March 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 51,
+   "Away Team": "Southern Steel",
+   "Away Score": 36,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 6 March 2011",
+   "Home Team": "Northern Mystics",
+   "Home Score": 56,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 54,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 7 March 2011",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 56,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 63,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 7 March 2011",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 55,
+   "Away Team": "West Coast Fever",
+   "Away Score": 51,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 13 March 2011",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 42,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 64,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 13 March 2011",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 46,
+   "Away Team": "Northern Mystics",
+   "Away Score": 47,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 14 March 2011",
+   "Home Team": "Southern Steel",
+   "Home Score": 50,
+   "Away Team": "Central Pulse",
+   "Away Score": 44,
+   "Venue": "Invercargill ILT Velodrome"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 14 March 2011",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 54,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 45,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 6,
+   "Date": "Thursday 17 March 2011",
+   "Home Team": "West Coast Fever",
+   "Home Score": 49,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 70,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 6,
+   "Date": "Saturday 19 March 2011",
+   "Home Team": "West Coast Fever",
+   "Home Score": 50,
+   "Away Team": "Southern Steel",
+   "Away Score": 47,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 20 March 2011",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 53,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 57,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 20 March 2011",
+   "Home Team": "Central Pulse",
+   "Home Score": 46,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 43,
+   "Venue": "Arena Manawatu, Palmerston North"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 21 March 2011",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 53,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 41,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 21 March 2011",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 57,
+   "Away Team": "Northern Mystics",
+   "Away Score": 55,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 7,
+   "Date": "Saturday 26 March 2011",
+   "Home Team": "Northern Mystics",
+   "Home Score": 52,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 61,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 27 March 2011",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 65,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 50,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 27 March 2011",
+   "Home Team": "Central Pulse",
+   "Home Score": 43,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 48,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 28 March 2011",
+   "Home Team": "Southern Steel",
+   "Home Score": 52,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 48,
+   "Venue": "Invercargill ILT Velodrome"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 28 March 2011",
+   "Home Team": "West Coast Fever",
+   "Home Score": 41,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 42,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 8,
+   "Date": "Thursday 31 March 2011",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 49,
+   "Away Team": "Southern Steel",
+   "Away Score": 44,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 8,
+   "Date": "Thursday 31 March 2011",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 42,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 52,
+   "Venue": "State Netball and Hockey Centre,Melbourne"
+ },
+ {
+   "Round": 8,
+   "Date": "Saturday 2 April 2011",
+   "Home Team": "Northern Mystics",
+   "Home Score": 61,
+   "Away Team": "Central Pulse",
+   "Away Score": 48,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 3 April 2011",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 42,
+   "Away Team": "Southern Steel",
+   "Away Score": 33,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 3 April 2011",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 56,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 59,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 4 April 2011",
+   "Home Team": "Central Pulse",
+   "Home Score": 63,
+   "Away Team": "West Coast Fever",
+   "Away Score": 61,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 4 April 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 53,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 49,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 9,
+   "Date": "Saturday 9 April 2011",
+   "Home Team": "Southern Steel",
+   "Home Score": 49,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 40,
+   "Venue": "Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 10 April 2011",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 55,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 53,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 10 April 2011",
+   "Home Team": "Central Pulse",
+   "Home Score": 44,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 61,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 11 April 2011",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 46,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 53,
+   "Venue": "Queen Elizabeth Youth Centre, Tauranga"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 11 April 2011",
+   "Home Team": "West Coast Fever",
+   "Home Score": 54,
+   "Away Team": "Northern Mystics",
+   "Away Score": 56,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 10,
+   "Date": "Thursday 14 April 2011",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 53,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 49,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 10,
+   "Date": "Thursday 14 April 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 57,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 36,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 10,
+   "Date": "Saturday 16 April 2011",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 57,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 53,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 17 April 2011",
+   "Home Team": "West Coast Fever",
+   "Home Score": 38,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 54,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 17 April 2011",
+   "Home Team": "Southern Steel",
+   "Home Score": 33,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 38,
+   "Venue": "Invercargill ILT Velodrome"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 18 April 2011",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 45,
+   "Away Team": "Central Pulse",
+   "Away Score": 47,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 18 April 2011",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 53,
+   "Away Team": "Northern Mystics",
+   "Away Score": 46,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 11,
+   "Date": "Thursday 21 April 2011",
+   "Home Team": "Southern Steel",
+   "Home Score": 39,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 40,
+   "Venue": "Edgar Centre, Dunedin"
+ },
+ {
+   "Round": 11,
+   "Date": "Saturday 23 April 2011",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 58,
+   "Away Team": "Central Pulse",
+   "Away Score": 42,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 24 April 2011",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 36,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 55,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 24 April 2011",
+   "Home Team": "Northern Mystics",
+   "Home Score": 62,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 43,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 25 April 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 56,
+   "Away Team": "West Coast Fever",
+   "Away Score": 54,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 30 April 2011",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 52,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 69,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 1 May 2011",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 33,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 45,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 1 May 2011",
+   "Home Team": "Southern Steel",
+   "Home Score": 35,
+   "Away Team": "Northern Mystics",
+   "Away Score": 47,
+   "Venue": "Invercargill ILT Velodrome"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 2 May 2011",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 60,
+   "Away Team": "Central Pulse",
+   "Away Score": 50,
+   "Venue": "Taupo Events Centre"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 2 May 2011",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 59,
+   "Away Team": "West Coast Fever",
+   "Away Score": 64,
+   "Venue": "ETSA Park, Adelaide"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 8 May 2011",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 44,
+   "Away Team": "Northern Mystics",
+   "Away Score": 49,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 9 May 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 50,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 39,
+   "Venue": "Gold Coast Convention and Exhibition Centre"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 15 May 2011",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 42,
+   "Away Team": "Northern Mystics",
+   "Away Score": 43,
+   "Venue": "Mystery Creek Events Centre, Hamilton"
+ },
+ {
+   "Round": 15,
+   "Date": "Sunday 22 May 2011",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 57,
+   "Away Team": "Northern Mystics",
+   "Away Score": 44,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 1,
+   "Date": "Saturday 31 March 2012",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 57,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 40,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 1 April 2012",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 42,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 47,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 1 April 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 51,
+   "Away Team": "Central Pulse",
+   "Away Score": 47,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 2 April 2012",
+   "Home Team": "Southern Steel",
+   "Home Score": 49,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 47,
+   "Venue": "Stadium Southland Velodrome,Invercargill"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 2 April 2012",
+   "Home Team": "West Coast Fever",
+   "Home Score": 55,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 35,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 2,
+   "Date": "Saturday 7 April 2012",
+   "Home Team": "Central Pulse",
+   "Home Score": 47,
+   "Away Team": "Southern Steel",
+   "Away Score": 42,
+   "Venue": "Pettigrew Green Arena, Napier"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 8 April 2012",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 44,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 54,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 8 April 2012",
+   "Home Team": "West Coast Fever",
+   "Home Score": 41,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 50,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 8 April 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 41,
+   "Away Team": "Northern Mystics",
+   "Away Score": 47,
+   "Venue": "Claudelands Arena, Hamilton"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 9 April 2012",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 54,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 51,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 15 April 2012",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 58,
+   "Away Team": "Central Pulse",
+   "Away Score": 32,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 15 April 2012",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 34,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 48,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 15 April 2012",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 53,
+   "Away Team": "Southern Steel",
+   "Away Score": 55,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 16 April 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 52,
+   "Away Team": "West Coast Fever",
+   "Away Score": 45,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 16 April 2012",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 49,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 47,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 4,
+   "Date": "Saturday 21 April 2012",
+   "Home Team": "Southern Steel",
+   "Home Score": 53,
+   "Away Team": "West Coast Fever",
+   "Away Score": 56,
+   "Venue": "Lion Foundation Arena, Dunedin"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 22 April 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 40,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 39,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 22 April 2012",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 54,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 49,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 22 April 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 48,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 50,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 23 April 2012",
+   "Home Team": "Central Pulse",
+   "Home Score": 50,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 45,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 29 April 2012",
+   "Home Team": "West Coast Fever",
+   "Home Score": 36,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 48,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 29 April 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 52,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 51,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 29 April 2012",
+   "Home Team": "Central Pulse",
+   "Home Score": 47,
+   "Away Team": "Northern Mystics",
+   "Away Score": 51,
+   "Venue": "Arena Manawatu, Palmerston North"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 30 April 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 61,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 52,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 6 May 2012",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 39,
+   "Away Team": "Central Pulse",
+   "Away Score": 36,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 6 May 2012",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 56,
+   "Away Team": "Northern Mystics",
+   "Away Score": 43,
+   "Venue": "Gold Coast Convention and Exhibition Centre"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 6 May 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 65,
+   "Away Team": "West Coast Fever",
+   "Away Score": 49,
+   "Venue": "TECT Arena, Tauranga"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 7 May 2012",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 41,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 65,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 7 May 2012",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 58,
+   "Away Team": "Southern Steel",
+   "Away Score": 48,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 13 May 2012",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 60,
+   "Away Team": "West Coast Fever",
+   "Away Score": 43,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 13 May 2012",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 55,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 52,
+   "Venue": "Allphones Arena, Sydney"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 13 May 2012",
+   "Home Team": "Southern Steel",
+   "Home Score": 45,
+   "Away Team": "Northern Mystics",
+   "Away Score": 49,
+   "Venue": "Lion Foundation Arena, Dunedin"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 14 May 2012",
+   "Home Team": "Central Pulse",
+   "Home Score": 46,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 56,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 14 May 2012",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 64,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 48,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 8,
+   "Date": "Saturday 19 May 2012",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 42,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 65,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 20 May 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 45,
+   "Away Team": "Northern Mystics",
+   "Away Score": 49,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 20 May 2012",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 52,
+   "Away Team": "West Coast Fever",
+   "Away Score": 47,
+   "Venue": "Newcastle Entertainment Centre"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 20 May 2012",
+   "Home Team": "Southern Steel",
+   "Home Score": 60,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 61,
+   "Venue": "Stadium Southland Velodrome,Invercargill"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 21 May 2012",
+   "Home Team": "Central Pulse",
+   "Home Score": 47,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 46,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 27 May 2012",
+   "Home Team": "West Coast Fever",
+   "Home Score": 55,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 56,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 27 May 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 43,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 49,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 27 May 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 57,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 56,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 28 May 2012",
+   "Home Team": "Southern Steel",
+   "Home Score": 50,
+   "Away Team": "Central Pulse",
+   "Away Score": 58,
+   "Venue": "Lion Foundation Arena, Dunedin"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 3 June 2012",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 50,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 45,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 3 June 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 48,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 40,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 3 June 2012",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 47,
+   "Away Team": "Central Pulse",
+   "Away Score": 54,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 4 June 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 66,
+   "Away Team": "Southern Steel",
+   "Away Score": 47,
+   "Venue": "Claudelands Arena, Hamilton"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 10 June 2012",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 54,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 49,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 10 June 2012",
+   "Home Team": "West Coast Fever",
+   "Home Score": 49,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 51,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 10 June 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 52,
+   "Away Team": "Central Pulse",
+   "Away Score": 42,
+   "Venue": "TECT Arena, Tauranga"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 11 June 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 60,
+   "Away Team": "Southern Steel",
+   "Away Score": 49,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 17 June 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 50,
+   "Away Team": "West Coast Fever",
+   "Away Score": 49,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 17 June 2012",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 35,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 62,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 17 June 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 46,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 48,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 18 June 2012",
+   "Home Team": "Southern Steel",
+   "Home Score": 61,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 62,
+   "Venue": "Invercargill ILT Velodrome"
+ },
+ {
+   "Round": 13,
+   "Date": "Saturday 23 June 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 59,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 42,
+   "Venue": "TECT Arena, Tauranga"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 24 June 2012",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 55,
+   "Away Team": "Southern Steel",
+   "Away Score": 42,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 24 June 2012",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 63,
+   "Away Team": "West Coast Fever",
+   "Away Score": 43,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 24 June 2012",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 55,
+   "Away Team": "Northern Mystics",
+   "Away Score": 64,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 25 June 2012",
+   "Home Team": "Central Pulse",
+   "Home Score": 41,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 49,
+   "Venue": "Te Rauparaha, Porirua"
+ },
+ {
+   "Round": 14,
+   "Date": "Saturday 30 June 2012",
+   "Home Team": "Southern Steel",
+   "Home Score": 38,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 56,
+   "Venue": "Invercargill ILT Velodrome"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 1 July 2012",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 65,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 44,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 1 July 2012",
+   "Home Team": "West Coast Fever",
+   "Home Score": 40,
+   "Away Team": "Central Pulse",
+   "Away Score": 38,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 1 July 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 50,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 49,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 2 July 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 53,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 43,
+   "Venue": "Claudelands Arena, Hamilton"
+ },
+ {
+   "Round": 15,
+   "Date": "Sunday 8 July 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 56,
+   "Away Team": "Northern Mystics",
+   "Away Score": 50,
+   "Venue": "Rod Laver Arena, Melbourne"
+ },
+ {
+   "Round": 15,
+   "Date": "Monday 9 July 2012",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 49,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 48,
+   "Venue": "Claudelands Arena, Hamilton"
+ },
+ {
+   "Round": 16,
+   "Date": "Monday 16 July 2012",
+   "Home Team": "Northern Mystics",
+   "Home Score": 48,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 57,
+   "Venue": "Trust Stadium, Auckland"
+ },
+ {
+   "Round": 17,
+   "Date": "Sunday 22 July 2012",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 38,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 41,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 24 March 2013",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 68,
+   "Away Team": "Southern Steel",
+   "Away Score": 59,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 24 March 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 49,
+   "Away Team": "Central Pulse",
+   "Away Score": 42,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 1,
+   "Date": "Sunday 24 March 2013",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 46,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 69,
+   "Venue": "Trafalgar Centre, Nelson"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 25 March 2013",
+   "Home Team": "Northern Mystics",
+   "Home Score": 46,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 60,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 1,
+   "Date": "Monday 25 March 2013",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 55,
+   "Away Team": "West Coast Fever",
+   "Away Score": 41,
+   "Venue": "State Sports Centre, Sydney"
+ },
+ {
+   "Round": 2,
+   "Date": "Saturday 30 March 2013",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 56,
+   "Away Team": "Southern Steel",
+   "Away Score": 75,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 31 March 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 58,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 44,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 31 March 2013",
+   "Home Team": "West Coast Fever",
+   "Home Score": 80,
+   "Away Team": "Northern Mystics",
+   "Away Score": 53,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 2,
+   "Date": "Sunday 31 March 2013",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 61,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 35,
+   "Venue": "ASB Baypark Arena, Tauranga"
+ },
+ {
+   "Round": 2,
+   "Date": "Monday 1 April 2013",
+   "Home Team": "Central Pulse",
+   "Home Score": 56,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 58,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 3,
+   "Date": "Saturday 6 April 2013",
+   "Home Team": "Southern Steel",
+   "Home Score": 54,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 60,
+   "Venue": "Lion Foundation Arena, Dunedin"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 7 April 2013",
+   "Home Team": "West Coast Fever",
+   "Home Score": 57,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 51,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 3,
+   "Date": "Sunday 7 April 2013",
+   "Home Team": "Northern Mystics",
+   "Home Score": 51,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 72,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 8 April 2013",
+   "Home Team": "Central Pulse",
+   "Home Score": 55,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 49,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 3,
+   "Date": "Monday 8 April 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 60,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 40,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 14 April 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 72,
+   "Away Team": "West Coast Fever",
+   "Away Score": 46,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 4,
+   "Date": "Sunday 14 April 2013",
+   "Home Team": "Central Pulse",
+   "Home Score": 59,
+   "Away Team": "Southern Steel",
+   "Away Score": 56,
+   "Venue": "Arena Manawatu, Palmerston North"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 15 April 2013",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 80,
+   "Away Team": "Northern Mystics",
+   "Away Score": 78,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 4,
+   "Date": "Monday 15 April 2013",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 53,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 61,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 21 April 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 39,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 38,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 21 April 2013",
+   "Home Team": "West Coast Fever",
+   "Home Score": 71,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 51,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 5,
+   "Date": "Sunday 21 April 2013",
+   "Home Team": "Northern Mystics",
+   "Home Score": 69,
+   "Away Team": "Central Pulse",
+   "Away Score": 68,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 5,
+   "Date": "Monday 22 April 2013",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 65,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 45,
+   "Venue": "ASB Baypark Arena, Tauranga"
+ },
+ {
+   "Round": 6,
+   "Date": "Saturday 27 April 2013",
+   "Home Team": "West Coast Fever",
+   "Home Score": 49,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 58,
+   "Venue": "Perth Arena, Perth"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 28 April 2013",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 53,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 54,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 6,
+   "Date": "Sunday 28 April 2013",
+   "Home Team": "Central Pulse",
+   "Home Score": 53,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 52,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 6,
+   "Date": "Monday 29 April 2013",
+   "Home Team": "Southern Steel",
+   "Home Score": 67,
+   "Away Team": "Northern Mystics",
+   "Away Score": 52,
+   "Venue": "Stadium Southland Velodrome,Invercargill"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 5 May 2013",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 63,
+   "Away Team": "West Coast Fever",
+   "Away Score": 54,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 5 May 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 52,
+   "Away Team": "Central Pulse",
+   "Away Score": 30,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 7,
+   "Date": "Sunday 5 May 2013",
+   "Home Team": "Northern Mystics",
+   "Home Score": 57,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 61,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 6 May 2013",
+   "Home Team": "Southern Steel",
+   "Home Score": 60,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 55,
+   "Venue": "Stadium Southland Velodrome,Invercargill"
+ },
+ {
+   "Round": 7,
+   "Date": "Monday 6 May 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 45,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 33,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 8,
+   "Date": "Saturday 11 May 2013",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 51,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 76,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 12 May 2013",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 42,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 50,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 12 May 2013",
+   "Home Team": "West Coast Fever",
+   "Home Score": 47,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 49,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 8,
+   "Date": "Sunday 12 May 2013",
+   "Home Team": "Northern Mystics",
+   "Home Score": 63,
+   "Away Team": "Southern Steel",
+   "Away Score": 73,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 8,
+   "Date": "Monday 13 May 2013",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 53,
+   "Away Team": "Central Pulse",
+   "Away Score": 49,
+   "Venue": "Claudelands Arena, Hamilton"
+ },
+ {
+   "Round": 9,
+   "Date": "Saturday 18 May 2013",
+   "Home Team": "Southern Steel",
+   "Home Score": 65,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 58,
+   "Venue": "Stadium Southland Velodrome,Invercargill"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 19 May 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 46,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 57,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 19 May 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 50,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 48,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 9,
+   "Date": "Sunday 19 May 2013",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 55,
+   "Away Team": "West Coast Fever",
+   "Away Score": 64,
+   "Venue": "Trafalgar Centre, Nelson"
+ },
+ {
+   "Round": 9,
+   "Date": "Monday 20 May 2013",
+   "Home Team": "Central Pulse",
+   "Home Score": 63,
+   "Away Team": "Northern Mystics",
+   "Away Score": 48,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 26 May 2013",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 63,
+   "Away Team": "Northern Mystics",
+   "Away Score": 44,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 26 May 2013",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 62,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 65,
+   "Venue": "Gold Coast Convention and Exhibition Centre"
+ },
+ {
+   "Round": 10,
+   "Date": "Sunday 26 May 2013",
+   "Home Team": "Central Pulse",
+   "Home Score": 53,
+   "Away Team": "West Coast Fever",
+   "Away Score": 52,
+   "Venue": "TSB Bank Arena, Wellington"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 27 May 2013",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 58,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 62,
+   "Venue": "Lion Foundation Arena, Dunedin"
+ },
+ {
+   "Round": 10,
+   "Date": "Monday 27 May 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 58,
+   "Away Team": "Southern Steel",
+   "Away Score": 52,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 2 June 2013",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 43,
+   "Away Team": "Adelaide Thunderbirds",
+   "Away Score": 46,
+   "Venue": "Allphones Arena, Sydney"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 2 June 2013",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 47,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 53,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 11,
+   "Date": "Sunday 2 June 2013",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 58,
+   "Away Team": "Southern Steel",
+   "Away Score": 52,
+   "Venue": "Energy Events Centre, Rotorua"
+ },
+ {
+   "Round": 11,
+   "Date": "Monday 3 June 2013",
+   "Home Team": "Canterbury Tactix",
+   "Home Score": 45,
+   "Away Team": "Central Pulse",
+   "Away Score": 62,
+   "Venue": "CBS Canterbury Arena, Christchurch"
+ },
+ {
+   "Round": 12,
+   "Date": "Saturday 8 June 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 39,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 48,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 9 June 2013",
+   "Home Team": "West Coast Fever",
+   "Home Score": 47,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 72,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 12,
+   "Date": "Sunday 9 June 2013",
+   "Home Team": "Southern Steel",
+   "Home Score": 79,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 62,
+   "Venue": "Lion Foundation Arena, Dunedin"
+ },
+ {
+   "Round": 12,
+   "Date": "Monday 10 June 2013",
+   "Home Team": "Northern Mystics",
+   "Home Score": 50,
+   "Away Team": "Waikato Bay of Plenty Magic",
+   "Away Score": 60,
+   "Venue": "Trusts Stadium, Auckland"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 16 June 2013",
+   "Home Team": "Queensland Firebirds",
+   "Home Score": 52,
+   "Away Team": "New South Wales Swifts",
+   "Away Score": 48,
+   "Venue": "Brisbane Convention and Exhibition Centre"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 16 June 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 64,
+   "Away Team": "Northern Mystics",
+   "Away Score": 48,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 13,
+   "Date": "Sunday 16 June 2013",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 56,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 51,
+   "Venue": "Claudelands Arena, Hamilton"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 17 June 2013",
+   "Home Team": "Central Pulse",
+   "Home Score": 73,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 59,
+   "Venue": "Te Rauparaha Arena, Porirua"
+ },
+ {
+   "Round": 13,
+   "Date": "Monday 17 June 2013",
+   "Home Team": "West Coast Fever",
+   "Home Score": 68,
+   "Away Team": "Southern Steel",
+   "Away Score": 56,
+   "Venue": "Challenge Stadium, Perth"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 23 June 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 69,
+   "Away Team": "West Coast Fever",
+   "Away Score": 39,
+   "Venue": "Hisense Arena, Melbourne"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 23 June 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 54,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 52,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 14,
+   "Date": "Sunday 23 June 2013",
+   "Home Team": "Southern Steel",
+   "Home Score": 64,
+   "Away Team": "Central Pulse",
+   "Away Score": 73,
+   "Venue": "Stadium Southland Velodrome,Invercargill"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 24 June 2013",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 68,
+   "Away Team": "Northern Mystics",
+   "Away Score": 40,
+   "Venue": "ASB Baypark Arena, Tauranga"
+ },
+ {
+   "Round": 14,
+   "Date": "Monday 24 June 2013",
+   "Home Team": "New South Wales Swifts",
+   "Home Score": 62,
+   "Away Team": "Canterbury Tactix",
+   "Away Score": 42,
+   "Venue": "Sydney Olympic Park Sports Centre"
+ },
+ {
+   "Round": 15,
+   "Date": "Sunday 30 June 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 49,
+   "Away Team": "Melbourne Vixens",
+   "Away Score": 39,
+   "Venue": "Netball SA Stadium, Adelaide"
+ },
+ {
+   "Round": 15,
+   "Date": "Monday 1 July 2013",
+   "Home Team": "Waikato Bay of Plenty Magic",
+   "Home Score": 50,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 53,
+   "Venue": "Claudelands Arena, Hamilton"
+ },
+ {
+   "Round": 16,
+   "Date": "Sunday 7 July 2013",
+   "Home Team": "Melbourne Vixens",
+   "Home Score": 46,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 50,
+   "Venue": "State Netball Hockey Centre, Melbourne"
+ },
+ {
+   "Round": 17,
+   "Date": "Sunday 14 July 2013",
+   "Home Team": "Adelaide Thunderbirds",
+   "Home Score": 50,
+   "Away Team": "Queensland Firebirds",
+   "Away Score": 48,
+   "Venue": "Adelaide Entertainment Centre, Adelaide"
+ }
+]
