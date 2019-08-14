@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { BubbleVisComponent } from './components/bubble-vis/bubble-vis.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BubbleVisComponent
   ],
   imports: [
     BrowserModule,
