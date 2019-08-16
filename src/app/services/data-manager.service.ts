@@ -35,7 +35,7 @@ function accumulateValues(input) {
     } else {
       result.set(homeResult.team,
         {
-          homeWins: homeResult.outcome, homeGames: 1, awayWins: 0, awayGames: 0,
+          teamName: homeResult.team, homeWins: homeResult.outcome, homeGames: 1, awayWins: 0, awayGames: 0,
         });
     }
     if (result.has(awayResult.team)) {
@@ -46,7 +46,7 @@ function accumulateValues(input) {
     } else {
       result.set(awayResult.team,
         {
-          homeWins: 0, homeGames: 0, awayWins: awayResult.outcome, awayGames: 1,
+          teamName: awayResult.team, homeWins: 0, homeGames: 0, awayWins: awayResult.outcome, awayGames: 1,
         });
     }
   });
