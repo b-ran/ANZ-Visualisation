@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BubbleVisComponent } from './components/bubble-vis/bubble-vis.component';
+import {AppMaterialModule} from './app-material.module';
 
 @NgModule({
   declarations: [
@@ -12,7 +13,8 @@ import { BubbleVisComponent } from './components/bubble-vis/bubble-vis.component
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    AppMaterialModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
