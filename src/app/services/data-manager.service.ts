@@ -69,7 +69,7 @@ export class DataManagerService {
   }
 
 
-  setFilters(teams, dateStart, dateEnd) {
+  setFilters(teams: any[], dateStart: Date, dateEnd: Date) {
     this.teams = teams; // expected array
     // this.country = country;
     this.dateStart = dateStart; // expected Date object
