@@ -1,8 +1,11 @@
-<mat-button-toggle-group name="fontStyle" aria-label="Font Style">
-  <mat-button-toggle value="bold">Bold</mat-button-toggle>
-  <mat-button-toggle value="italic">Italic</mat-button-toggle>
-  <mat-button-toggle value="underline">Underline</mat-button-toggle>
+<mat-button-toggle-group #group="matButtonToggleGroup" value="home">
+  <mat-button-toggle value="home" (click)="changeTargetRatio(ratios.homeRatio)">Home Ratio</mat-button-toggle>
+  <mat-button-toggle (click)="changeTargetRatio(ratios.awayRatio)">Away Ratio</mat-button-toggle>
+  <mat-button-toggle (click)="changeTargetRatio(ratios.winsRatio)">Wins Ratio</mat-button-toggle>
+  <mat-button-toggle (click)="changeTargetRatio(ratios.otherCountryRatio)">Other Country Ratio</mat-button-toggle>
 </mat-button-toggle-group>
+
+
 
 <svg width="95vw" height="95vh" viewBox="0 0 350 350"></svg>
 

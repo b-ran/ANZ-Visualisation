@@ -31,14 +31,19 @@ export class BubbleVisComponent implements OnInit {
     }
   };
 
-  private targetRatio = this.ratios.awayRatio;
+  private targetRatio = this.ratios.homeRatio;
 
   constructor(private container: ElementRef) {
     const df = new DataManagerService((result) => this.data = {children: Array.from(result.values())});
-    console.log(this.data);
   }
 
   ngOnInit() {
+    this.initSvg();
+  }
+
+  changeTargetRatio(ratio: (team) => {title: string; ratio: string}) {
+    this.targetRatio = ratio;
+    this.svg.selectAll('*').remove();
     this.initSvg();
   }
 
