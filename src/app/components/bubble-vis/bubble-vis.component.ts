@@ -3,19 +3,35 @@ import {Component, ElementRef, OnInit} from '@angular/core';
 import {DataManagerService} from '../../services/data-manager.service';
 import * as d3 from 'd3/dist/d3.min.js';
 
+
 @Component({
   selector: 'app-bubble-vis',
-  template: `
-    <svg viewBox="0 0 800 800"></svg>`,
+  templateUrl: './bubble-vis.component.html',
   styleUrls: ['./bubble-vis.component.css']
 })
+
 export class BubbleVisComponent implements OnInit {
 
   private svg: any;
   private data: any;
-  private ratioHome = (d) => {
-    return (d.homeWins / d.homeGames);
+  private decPlaces = 2;
+
+  private ratios = {
+    homeRatio: (team) => {
+      return {title: 'Home Wins Ratio', ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)};
+    },
+    awayRatio: (team) => {
+      return {title: 'Away Wins Ratio', ratio: (team.awayWins / team.awayGames).toFixed(this.decPlaces)};
+    },
+    winsRatio: (team) => {
+      return {title: 'Wins Ratio', ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)};
+    },
+    otherCountryRatio: (team) => {
+      return {title: 'Other Country Wins Ratio', ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)};
+    }
   };
+
+  private targetRatio = this.ratios.awayRatio;
 
   constructor(private container: ElementRef) {
     const df = new DataManagerService((result) => this.data = {children: Array.from(result.values())});
@@ -36,7 +52,7 @@ export class BubbleVisComponent implements OnInit {
 
     const nodes = d3.hierarchy(this.data)
       .sum((d) => {
-        return d.homeWins;
+        return this.targetRatio(d).ratio;
       });
 
     const node = this.svg.selectAll('.node')
@@ -75,7 +91,7 @@ export class BubbleVisComponent implements OnInit {
       .attr('dy', '1.3em')
       .style('text-anchor', 'middle')
       .text((d) => {
-        return 'Home Wins: ' + d.data.homeWins;
+        return this.targetRatio(d.data).title + ' ' + this.targetRatio(d.data).ratio;
       })
       .attr('font-family', 'sans-serif')
       .attr('font-size', (d) => {
