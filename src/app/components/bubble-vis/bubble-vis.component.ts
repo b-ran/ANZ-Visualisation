@@ -24,10 +24,10 @@ export class BubbleVisComponent implements OnInit {
       return {title: 'Away Wins Ratio', ratio: (team.awayWins / team.awayGames).toFixed(this.decPlaces)};
     },
     winsRatio: (team) => {
-      return {title: 'Wins Ratio', ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)};
+      return {title: 'Wins Ratio', ratio: ((team.homeWins + team.awayWins) / (team.homeGames + team.awayGames)).toFixed(this.decPlaces)};
     },
     otherCountryRatio: (team) => {
-      return {title: 'Other Country Wins Ratio', ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)};
+      return {title: 'Other Country Wins Ratio', ratio: (team.interCountryWins / team.interCountryGames).toFixed(this.decPlaces)};
     }
   };
 
