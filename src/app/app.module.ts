@@ -4,6 +4,8 @@ import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
 import {BubbleVisComponent} from './components/bubble-vis/bubble-vis.component';
 import {AppMaterialModule} from './app-material.module';
+import {MatSidenavModule} from '@angular/material';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -14,6 +16,8 @@ import {AppMaterialModule} from './app-material.module';
     BrowserModule,
     AppRoutingModule,
     AppMaterialModule,
+    MatSidenavModule,
+    BrowserAnimationsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
