@@ -4,7 +4,7 @@ import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
 import {BubbleVisComponent} from './components/bubble-vis/bubble-vis.component';
 import {AppMaterialModule} from './app-material.module';
-import {MatSidenavModule} from '@angular/material';
+import {MatSidenavModule, MatCheckboxModule} from '@angular/material';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 @NgModule({
@@ -17,6 +17,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
     AppRoutingModule,
     AppMaterialModule,
     MatSidenavModule,
+    MatCheckboxModule,
     BrowserAnimationsModule,
   ],
   providers: [],

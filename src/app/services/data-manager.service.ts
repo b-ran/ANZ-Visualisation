@@ -21,8 +21,8 @@ function accumulateValues(input) {
     const homeResult = {team: element['Home Team'], outcome: 0};
     const awayResult = {team: element['Away Team'], outcome: 0};
 
-    const isInterCountry = (teamInfo.find((info) => info.team === element['Home Team']).country
-    !== teamInfo.find((info) => info.team === element['Away Team']).country);
+    const isInterCountry = (teamInfo.find((team) => team.teamName === element['Home Team']).country
+    !== teamInfo.find((team) => team.teamName === element['Away Team']).country);
 
     if (element['Home Score'] > element['Away Score']) {
       homeResult.outcome = 1;
@@ -79,6 +79,9 @@ export class DataManagerService {
     this.callback(accumulateValues(data));
   }
 
+  getTeamInfo() {
+    return teamInfo;
+  }
 
   setFilters(teams: any[], dateStart: Date, dateEnd: Date) {
     this.teams = teams; // expected array

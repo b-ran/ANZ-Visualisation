@@ -4,3 +4,10 @@ mat-button-toggle-group {
   float: right;
   margin-top: 1vh;
 }
+
+svg {
+  position: relative;
+  left: 0%;
+  float: right;
+  margin-top: 1vh;
+}

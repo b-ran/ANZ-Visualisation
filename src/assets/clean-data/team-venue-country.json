@@ -1,51 +1,51 @@
 [
   {
-    "team": "Central Pulse",
+    "teamName": "Central Pulse",
     "venue": "TSB Bank Arena, Wellington",
     "country": "New Zealand"
   },
   {
-    "team": "Queensland Firebirds",
+    "teamName": "Queensland Firebirds",
     "venue": "Brisbane Convention & Exhibition Centre",
     "country": "Australia"
   },
   {
-    "team": "Northern Mystics",
+    "teamName": "Northern Mystics",
     "venue": "Trusts Stadium, Auckland",
     "country": "New Zealand"
   },
   {
-    "team": "Waikato Bay of Plenty Magic",
+    "teamName": "Waikato Bay of Plenty Magic",
     "venue": "Energy Events Centre, Rotorua",
     "country": "New Zealand"
   },
   {
-    "team": "New South Wales Swifts",
+    "teamName": "New South Wales Swifts",
     "venue": "Acer Arena, Sydney",
     "country": "Australia"
   },
   {
-    "team": "Canterbury Tactix",
+    "teamName": "Canterbury Tactix",
     "venue": "Westpac Centre, Christchurch",
     "country": "New Zealand"
   },
   {
-    "team": "Melbourne Vixens",
+    "teamName": "Melbourne Vixens",
     "venue": "State Netball and Hockey Centre, Melbourne",
     "country": "Australia"
   },
   {
-    "team": "West Coast Fever",
+    "teamName": "West Coast Fever",
     "venue": "Challenge Stadium, Perth",
     "country": "Australia"
   },
   {
-    "team": "Adelaide Thunderbirds",
+    "teamName": "Adelaide Thunderbirds",
     "venue": "ETSA Park, Adelaide",
     "country": "Australia"
   },
   {
-    "team": "Southern Steel",
+    "teamName": "Southern Steel",
     "venue": "Stadium Southland, Invercargill",
     "country": "New Zealand"
   }

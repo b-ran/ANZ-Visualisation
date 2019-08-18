@@ -1,8 +1,12 @@
 <mat-sidenav-container>
     <mat-sidenav #sidenav mode="side" opened>
-      Test
+      <div *ngFor="let team of dataManager.getTeamInfo()">
+      <mat-checkbox>
+        <label>{{team.teamName}}</label>
+      </mat-checkbox>
+      </div>
     </mat-sidenav>
-  
+
     <mat-sidenav-content>
       <mat-button-toggle-group #group="matButtonToggleGroup" value="home">
         <mat-button-toggle value="home" (click)="changeTargetRatio(ratios.homeRatio)">Home Ratio</mat-button-toggle>
@@ -11,10 +15,10 @@
         <mat-button-toggle (click)="changeTargetRatio(ratios.otherCountryRatio)">Other Country Ratio</mat-button-toggle>
       </mat-button-toggle-group>
   
-  <mat-select>
+  <!-- <mat-select>
     <mat-label>Please select</mat-label>
     <mat-option>Test</mat-option>
-  </mat-select>
+  </mat-select> -->
   
   
       <svg width="95vw" height="95vh" viewBox="0 0 350 350"></svg>

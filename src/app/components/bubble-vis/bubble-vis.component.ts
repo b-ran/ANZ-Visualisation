@@ -14,6 +14,7 @@ export class BubbleVisComponent implements OnInit {
 
   private svg: any;
   private data: any;
+  private dataManager: DataManagerService;
   private decPlaces = 2;
 
   private ratios = {
@@ -34,7 +35,7 @@ export class BubbleVisComponent implements OnInit {
   private targetRatio = this.ratios.homeRatio;
 
   constructor(private container: ElementRef) {
-    const df = new DataManagerService((result) => this.data = {children: Array.from(result.values())});
+    this.dataManager = new DataManagerService((result) => this.data = {children: Array.from(result.values())});
   }
 
   ngOnInit() {
