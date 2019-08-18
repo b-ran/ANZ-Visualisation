@@ -1,27 +1,31 @@
 <mat-sidenav-container>
-    <mat-sidenav #sidenav mode="side" opened>
-      <div *ngFor="let team of dataManager.getTeamInfo()">
+
+  <mat-sidenav #sidenav mode="side" opened>
+    <div *ngFor="let team of dataManager.getTeamInfo()">
       <mat-checkbox>
         <label>{{team.teamName}}</label>
       </mat-checkbox>
-      </div>
-    </mat-sidenav>
+    </div>
+  </mat-sidenav>
 
-    <mat-sidenav-content>
-      <mat-button-toggle-group #group="matButtonToggleGroup" value="home">
-        <mat-button-toggle value="home" (click)="changeTargetRatio(ratios.homeRatio)">Home Ratio</mat-button-toggle>
-        <mat-button-toggle (click)="changeTargetRatio(ratios.awayRatio)">Away Ratio</mat-button-toggle>
-        <mat-button-toggle (click)="changeTargetRatio(ratios.winsRatio)">Wins Ratio</mat-button-toggle>
-        <mat-button-toggle (click)="changeTargetRatio(ratios.otherCountryRatio)">Other Country Ratio</mat-button-toggle>
-      </mat-button-toggle-group>
-  
-  <!-- <mat-select>
-    <mat-label>Please select</mat-label>
-    <mat-option>Test</mat-option>
-  </mat-select> -->
-  
-  
-      <svg width="95vw" height="95vh" viewBox="0 0 350 350"></svg>
-    </mat-sidenav-content>
-  
-  </mat-sidenav-container>
+  <mat-sidenav-content>
+
+    <mat-button-toggle-group #group="matButtonToggleGroup" value="home">
+      <mat-button-toggle value="home" (click)="changeTargetRatio(ratios.homeRatio)">Home Ratio</mat-button-toggle>
+      <mat-button-toggle (click)="changeTargetRatio(ratios.awayRatio)">Away Ratio</mat-button-toggle>
+      <mat-button-toggle (click)="changeTargetRatio(ratios.winsRatio)">Wins Ratio</mat-button-toggle>
+      <mat-button-toggle (click)="changeTargetRatio(ratios.otherCountryRatio)">Other Country Ratio</mat-button-toggle>
+    </mat-button-toggle-group>
+
+    <!-- <mat-select>
+      <mat-label>Please select</mat-label>
+      <mat-option>Test</mat-option>
+    </mat-select> -->
+
+    <svg width="95vw" height="85vh" viewBox="0 0 350 350"></svg>
+
+    <app-range-slider></app-range-slider>
+
+  </mat-sidenav-content>
+
+</mat-sidenav-container>

@@ -6,11 +6,13 @@ import {BubbleVisComponent} from './components/bubble-vis/bubble-vis.component';
 import {AppMaterialModule} from './app-material.module';
 import {MatSidenavModule, MatCheckboxModule} from '@angular/material';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { RangeSliderComponent } from './components/range-slider/range-slider.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    BubbleVisComponent
+    BubbleVisComponent,
+    RangeSliderComponent
   ],
   imports: [
     BrowserModule,
