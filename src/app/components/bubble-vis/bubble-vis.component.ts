@@ -25,10 +25,16 @@ export class BubbleVisComponent implements OnInit {
       return {title: 'Away Wins Ratio', ratio: (team.awayWins / team.awayGames).toFixed(this.decPlaces)};
     },
     winsRatio: (team) => {
-      return {title: 'Wins Ratio', ratio: ((team.homeWins + team.awayWins) / (team.homeGames + team.awayGames)).toFixed(this.decPlaces)};
+      return {
+        title: 'Wins Ratio',
+        ratio: ((team.homeWins + team.awayWins) / (team.homeGames + team.awayGames)).toFixed(this.decPlaces)
+      };
     },
     otherCountryRatio: (team) => {
-      return {title: 'Other Country Wins Ratio', ratio: (team.interCountryWins / team.interCountryGames).toFixed(this.decPlaces)};
+      return {
+        title: 'Other Country Wins Ratio',
+        ratio: (team.interCountryWins / team.interCountryGames).toFixed(this.decPlaces)
+      };
     }
   };
 
@@ -39,10 +45,11 @@ export class BubbleVisComponent implements OnInit {
   }
 
   ngOnInit() {
+    this.svg = d3.select(this.container.nativeElement).select('svg').attr('class', 'bubble');
     this.initSvg();
   }
 
-  changeTargetRatio(ratio: (team) => {title: string; ratio: string}) {
+  changeTargetRatio(ratio: (team) => { title: string; ratio: string }) {
     this.targetRatio = ratio;
     this.svg.selectAll('*').remove();
     this.initSvg();
@@ -54,8 +61,6 @@ export class BubbleVisComponent implements OnInit {
       .size([diameter, diameter])
       .padding(1.5);
     const color = d3.scaleOrdinal(d3.schemeCategory10);
-    this.svg = d3.select(this.container.nativeElement).select('svg').attr('class', 'bubble');
-
     const nodes = d3.hierarchy(this.data)
       .sum((d) => {
         return this.targetRatio(d).ratio;
