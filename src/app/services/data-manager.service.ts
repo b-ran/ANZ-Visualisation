@@ -4,6 +4,7 @@ import {Injectable} from '@angular/core';
 // @ts-ignore
 import data from '../../assets/clean-data/anz-championship-cleaned-data.json';
 import teamInfo from '../../assets/clean-data/team-venue-country.json';
+import {isUndefined} from "util";
 
 // const teamInfo = () => {
 //   const result = new Map();
@@ -22,7 +23,7 @@ function accumulateValues(input) {
     const awayResult = {team: element['Away Team'], outcome: 0};
 
     const isInterCountry = (teamInfo.find((team) => team.teamName === element['Home Team']).country
-    !== teamInfo.find((team) => team.teamName === element['Away Team']).country);
+      !== teamInfo.find((team) => team.teamName === element['Away Team']).country);
 
     if (element['Home Score'] > element['Away Score']) {
       homeResult.outcome = 1;
@@ -68,32 +69,55 @@ function accumulateValues(input) {
   providedIn: 'root'
 })
 export class DataManagerService {
+
+  constructor() {
+  }
+
   private teams: any;
   private dateEnd: any;
   private dateStart: any;
-  private data: any;
   private callback: any;
 
-  constructor(callback) {
-    this.callback = callback;
-    this.callback(accumulateValues(data));
+  dateRange() {
+    return {
+      startDate: new Date(data[0].Date),
+      endDate: new Date(data[data.length - 1].Date)
+    };
   }
 
   getTeamInfo() {
     return teamInfo;
   }
 
-  setFilters(teams: any[], dateStart: Date, dateEnd: Date) {
-    this.teams = teams; // expected array
-    // this.country = country;
-    this.dateStart = dateStart; // expected Date object
-    this.dateEnd = dateEnd; // expected Date object
+  setCallback(callback) {
+    this.callback = callback;
+    this.callback(accumulateValues(data));
+  }
+
+  private updateCallback() {
+    if (isUndefined(this.callback)) {
+      return;
+    }
     this.callback(accumulateValues(this.filterData()));
+  }
+
+  setFilters(teams: any[], dateStart: Date, dateEnd: Date) {
+    this.teams = teams;
+    // this.country = country;
+    this.dateStart = dateStart;
+    this.dateEnd = dateEnd;
+    this.updateCallback();
+  }
+
+  setDateFilter(dateStart: Date, dateEnd: Date) {
+    this.dateStart = dateStart;
+    this.dateEnd = dateEnd;
+    this.updateCallback();
   }
 
   filterData() {
     const filtered = [];
-    this.data.forEach((element) => {
+    data.forEach((element) => {
       let dateOK = false;
       if (this.dateStart !== undefined && this.dateEnd !== undefined) {
         dateOK = (element.Date >= this.dateStart && element.Date <= this.dateEnd);
@@ -113,5 +137,4 @@ export class DataManagerService {
     });
     return filtered;
   }
-
 }
