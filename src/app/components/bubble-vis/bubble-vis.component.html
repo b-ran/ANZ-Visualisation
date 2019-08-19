@@ -1,11 +1,33 @@
 <mat-sidenav-container>
 
   <mat-sidenav #sidenav mode="side" opened>
+
+    <div class="title" >
+      <button mat-button class="titleButton" (click)="nzSelect=!nzSelect; selectAll()">
+        <mat-icon>arrow_downwards</mat-icon>
+      </button>
+      New Zealand
+    </div>
+
     <div *ngFor="let team of dataManager.getTeamInfo()">
-      <mat-checkbox>
+      <mat-checkbox *ngIf="team.country === 'New Zealand'" [ngStyle]="{'color': team.color}" [checked]="nzSelect" (click)="filterTeam(team)">
         <label>{{team.teamName}}</label>
       </mat-checkbox>
     </div>
+
+    <div class="title" >
+      <button mat-button class="titleButton" (click)="auSelect=!auSelect; selectAll()">
+       <mat-icon>arrow_downwards</mat-icon>
+      </button>
+      Australia
+    </div>
+
+    <div *ngFor="let team of dataManager.getTeamInfo()">
+      <mat-checkbox *ngIf="team.country === 'Australia'" [ngStyle]="{'color': team.color}" [checked]="auSelect" (click)="filterTeam(team)">
+        <label>{{team.teamName}}</label>
+      </mat-checkbox>
+    </div>
+
   </mat-sidenav>
 
   <mat-sidenav-content>

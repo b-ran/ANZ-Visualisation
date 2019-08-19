@@ -5,16 +5,6 @@ import {Injectable} from '@angular/core';
 import data from '../../assets/clean-data/anz-championship-cleaned-data.json';
 import teamInfo from '../../assets/clean-data/team-venue-country.json';
 
-// const teamInfo = () => {
-//   const result = new Map();
-//   data.forEach((element) => {
-//     if (!result.has(element['Home Team'])) {
-//       result.set(element['Home Team'], element.Venue);
-//     }
-//   });
-//   return result;
-// };
-
 function accumulateValues(input) {
   const result = new Map();
   input.forEach((element) => {
@@ -72,7 +62,7 @@ export class DataManagerService {
   constructor() {
   }
 
-  private teams: any[];
+  private teams = [];
   private dateEnd: Date;
   private dateStart: Date;
   private callback: any;
@@ -88,12 +78,16 @@ export class DataManagerService {
     return teamInfo;
   }
 
+  teamColor(teamName: string) {
+    return teamInfo.find((team) => team.teamName === teamName).color;
+  }
+
   setCallback(callback) {
     this.callback = callback;
     this.callback(accumulateValues(data));
   }
 
-  private updateCallback() {
+  updateCallback() {
     if (this.callback === undefined) {
       return;
     }
@@ -114,6 +108,11 @@ export class DataManagerService {
     this.updateCallback();
   }
 
+  filterTeam(team: any) {
+    this.teams.push(team);
+    this.updateCallback();
+  }
+
   filterData() {
     const filtered = [];
     data.forEach((element) => {
@@ -123,14 +122,7 @@ export class DataManagerService {
       } else {
         dateOK = true;
       }
-      let teamsOK = false;
-      if (this.teams !== undefined) {
-        teamsOK = (this.teams.includes(element['Home Team'])
-          && this.teams.includes(element['Away Team']));
-      } else {
-        teamsOK = true;
-      }
-      if (dateOK && teamsOK) {
+      if (dateOK) {
         filtered.push(element);
       }
     });

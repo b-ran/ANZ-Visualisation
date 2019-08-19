@@ -13,8 +13,12 @@ import * as d3 from 'd3/dist/d3.min.js';
 export class BubbleVisComponent implements OnInit {
 
   private svg: any;
-  private decPlaces = 2;
   private data: any;
+  private teamsFilter = [];
+
+  auSelect = true;
+  nzSelect = true;
+  private decPlaces = 2;
 
   private ratios = {
     homeRatio: (team) => {
@@ -45,6 +49,7 @@ export class BubbleVisComponent implements OnInit {
 
   private targetRatio = this.ratios.homeRatio;
 
+
   constructor(private container: ElementRef, private dataManager: DataManagerService) {
   }
 
@@ -55,9 +60,13 @@ export class BubbleVisComponent implements OnInit {
   }
 
   setupDataCallback() {
-    this.dataManager.setCallback((result) => {
-      console.log(result);
+    this.dataManager.setCallback((result: Map<string, []>) => {
+      if (this.teamsFilter.length !== 0) {
+        this.teamsFilter.forEach((item) => result.delete(item.teamName));
+      }
       this.data = {children: Array.from(result.values())};
+
+
       this.drawSvg();
     });
   }
@@ -68,6 +77,9 @@ export class BubbleVisComponent implements OnInit {
   }
 
   private drawSvg() {
+    if (this.data.children.length === 0) {
+      return;
+    }
     this.svg.selectAll('*').remove();
     const diameter = 300;
     const bubble = d3.pack(this.data)
@@ -96,7 +108,7 @@ export class BubbleVisComponent implements OnInit {
         return d.r;
       })
       .style('fill', (d, i) => {
-        return color(i);
+        return this.dataManager.teamColor(d.data.teamName);
       });
 
     node.append('text')
@@ -122,8 +134,26 @@ export class BubbleVisComponent implements OnInit {
         return d.r / 7;
       })
       .attr('fill', 'white');
-
   }
 
+  filterTeam(team: any) {
+    if (this.teamsFilter.includes(team)) {
+      this.teamsFilter = this.teamsFilter.filter((item) => item !== team);
+    } else {
+      this.teamsFilter.push(team);
+    }
+    this.dataManager.updateCallback();
+  }
 
+  selectAll() {
+    this.teamsFilter = this.teamsFilter.filter((item) => item.country !== 'New Zealand');
+    this.teamsFilter = this.teamsFilter.filter((item) => item.country !== 'Australia');
+    if (!this.nzSelect) {
+      this.dataManager.getTeamInfo().filter((item => item.country === 'New Zealand')).forEach((item) => this.teamsFilter.push(item));
+    }
+    if (!this.auSelect) {
+      this.dataManager.getTeamInfo().filter((item => item.country === 'Australia')).forEach((item) => this.teamsFilter.push(item))
+    }
+    this.dataManager.updateCallback();
+  }
 }
