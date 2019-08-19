@@ -1,5 +1,5 @@
 /* tslint:disable:semicolon */
-import {Component, ElementRef, OnInit} from '@angular/core';
+import {Component, ElementRef, Input, OnInit} from '@angular/core';
 import {DataManagerService} from '../../services/data-manager.service';
 import * as d3 from 'd3/dist/d3.min.js';
 
@@ -13,16 +13,21 @@ import * as d3 from 'd3/dist/d3.min.js';
 export class BubbleVisComponent implements OnInit {
 
   private svg: any;
-  private data: any;
-  private dataManager: DataManagerService;
   private decPlaces = 2;
+  private data: any;
 
   private ratios = {
     homeRatio: (team) => {
-      return {title: 'Home Wins Ratio', ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)};
+      return {
+        title: 'Home Wins Ratio',
+        ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)
+      };
     },
     awayRatio: (team) => {
-      return {title: 'Away Wins Ratio', ratio: (team.awayWins / team.awayGames).toFixed(this.decPlaces)};
+      return {
+        title: 'Away Wins Ratio',
+        ratio: (team.awayWins / team.awayGames).toFixed(this.decPlaces)
+      };
     },
     winsRatio: (team) => {
       return {
@@ -40,22 +45,30 @@ export class BubbleVisComponent implements OnInit {
 
   private targetRatio = this.ratios.homeRatio;
 
-  constructor(private container: ElementRef) {
-    this.dataManager = new DataManagerService((result) => this.data = {children: Array.from(result.values())});
+  constructor(private container: ElementRef, private dataManager: DataManagerService) {
   }
 
   ngOnInit() {
     this.svg = d3.select(this.container.nativeElement).select('svg').attr('class', 'bubble');
-    this.initSvg();
+    this.setupDataCallback();
+    this.drawSvg();
+  }
+
+  setupDataCallback() {
+    this.dataManager.setCallback((result) => {
+      console.log(result);
+      this.data = {children: Array.from(result.values())};
+      this.drawSvg();
+    });
   }
 
   changeTargetRatio(ratio: (team) => { title: string; ratio: string }) {
     this.targetRatio = ratio;
     this.svg.selectAll('*').remove();
-    this.initSvg();
+    this.drawSvg();
   }
 
-  private initSvg() {
+  private drawSvg() {
     const diameter = 300;
     const bubble = d3.pack(this.data)
       .size([diameter, diameter])
