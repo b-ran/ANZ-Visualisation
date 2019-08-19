@@ -35,9 +35,9 @@ export class BubbleVisComponent implements OnInit {
         ratio: ((team.homeWins + team.awayWins) / (team.homeGames + team.awayGames)).toFixed(this.decPlaces)
       };
     },
-    otherCountryRatio: (team) => {
+    interCountryRatio: (team) => {
       return {
-        title: 'Other Country Wins Ratio',
+        title: 'Inter Country Wins Ratio',
         ratio: (team.interCountryWins / team.interCountryGames).toFixed(this.decPlaces)
       };
     }
@@ -64,11 +64,11 @@ export class BubbleVisComponent implements OnInit {
 
   changeTargetRatio(ratio: (team) => { title: string; ratio: string }) {
     this.targetRatio = ratio;
-    this.svg.selectAll('*').remove();
     this.drawSvg();
   }
 
   private drawSvg() {
+    this.svg.selectAll('*').remove();
     const diameter = 300;
     const bubble = d3.pack(this.data)
       .size([diameter, diameter])
