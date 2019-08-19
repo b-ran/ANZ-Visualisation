@@ -120,6 +120,41 @@
           }
         }
       }
+    },
+    "play-range": {
+      "projectType": "library",
+      "root": "projects/play-range",
+      "sourceRoot": "projects/play-range/src",
+      "prefix": "lib",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-ng-packagr:build",
+          "options": {
+            "tsConfig": "projects/play-range/tsconfig.lib.json",
+            "project": "projects/play-range/ng-package.json"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/play-range/src/test.ts",
+            "tsConfig": "projects/play-range/tsconfig.spec.json",
+            "karmaConfig": "projects/play-range/karma.conf.js"
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/play-range/tsconfig.lib.json",
+              "projects/play-range/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
     }},
   "defaultProject": "swen422-assignment1"
 }

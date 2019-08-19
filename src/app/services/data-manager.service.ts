@@ -4,7 +4,6 @@ import {Injectable} from '@angular/core';
 // @ts-ignore
 import data from '../../assets/clean-data/anz-championship-cleaned-data.json';
 import teamInfo from '../../assets/clean-data/team-venue-country.json';
-import {isUndefined} from "util";
 
 // const teamInfo = () => {
 //   const result = new Map();
@@ -73,9 +72,9 @@ export class DataManagerService {
   constructor() {
   }
 
-  private teams: any;
-  private dateEnd: any;
-  private dateStart: any;
+  private teams: any[];
+  private dateEnd: Date;
+  private dateStart: Date;
   private callback: any;
 
   dateRange() {
@@ -95,7 +94,7 @@ export class DataManagerService {
   }
 
   private updateCallback() {
-    if (isUndefined(this.callback)) {
+    if (this.callback === undefined) {
       return;
     }
     this.callback(accumulateValues(this.filterData()));
@@ -120,7 +119,7 @@ export class DataManagerService {
     data.forEach((element) => {
       let dateOK = false;
       if (this.dateStart !== undefined && this.dateEnd !== undefined) {
-        dateOK = (element.Date >= this.dateStart && element.Date <= this.dateEnd);
+        dateOK = (new Date(element.Date) >= this.dateStart && new Date(element.Date) <= this.dateEnd);
       } else {
         dateOK = true;
       }
