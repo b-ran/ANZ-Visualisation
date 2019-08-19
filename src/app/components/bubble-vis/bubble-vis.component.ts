@@ -77,10 +77,10 @@ export class BubbleVisComponent implements OnInit {
   }
 
   private drawSvg() {
+    this.svg.selectAll('*').remove();
     if (this.data.children.length === 0) {
       return;
     }
-    this.svg.selectAll('*').remove();
     const diameter = 300;
     const bubble = d3.pack(this.data)
       .size([diameter, diameter])
