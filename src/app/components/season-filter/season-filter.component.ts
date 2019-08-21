@@ -1,4 +1,4 @@
-import {Component, EventEmitter, OnInit, Output} from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {DataManagerService} from '../../services/data-manager.service';
 
 @Component({
@@ -7,9 +7,8 @@ import {DataManagerService} from '../../services/data-manager.service';
   styleUrls: ['./season-filter.component.css']
 })
 export class SeasonFilterComponent implements OnInit {
-  selected = this.dataManager.getSeasonInfo()[0];
 
-  @Output() dateSelected = new EventEmitter();
+  selected = this.dataManager.getSeasonInfo()[0];
 
   constructor(private dataManager: DataManagerService) {
   }

@@ -1,27 +1,21 @@
 import {Injectable} from '@angular/core';
-
-
-// @ts-ignore
 import data from '../../assets/clean-data/anz-championship-cleaned-data.json';
 import teamInfo from '../../assets/clean-data/team-venue-country.json';
 import seasonInfo from '../../assets/clean-data/season-date-ranges.json';
 
+/**
+ * accumulates values from cleaned data json into results map where team-name is the key and have the elements
+ * teamName, homeName, homeWins, homeGames, awayWins, awayGames, interCountryWins, interCountryGames
+ */
 function accumulateValues(input) {
   const result = new Map();
   input.forEach((element) => {
-    const homeResult = {team: element['Home Team'], outcome: 0};
-    const awayResult = {team: element['Away Team'], outcome: 0};
 
-    const isInterCountry = (teamInfo.find((team) => team.teamName === element['Home Team']).country
-      !== teamInfo.find((team) => team.teamName === element['Away Team']).country);
+    const outcome = findOutcome(element);
+    const homeResult = outcome.homeResult;
+    const awayResult = outcome.awayResult;
 
-    if (element['Home Score'] > element['Away Score']) {
-      homeResult.outcome = 1;
-      awayResult.outcome = 0;
-    } else if (element['Away Score'] > element['Home Score']) {
-      homeResult.outcome = 0;
-      awayResult.outcome = 1;
-    } // else it is a draw - need to handle?
+    const isInterCountry = checkInterCountry(element);
 
     if (result.has(homeResult.team)) {
       const vals = result.get(homeResult.team);
@@ -55,14 +49,29 @@ function accumulateValues(input) {
   return result;
 }
 
+function checkInterCountry(element) {
+  return (teamInfo.find((team) => team.teamName === element['Home Team']).country
+    !== teamInfo.find((team) => team.teamName === element['Away Team']).country);
+}
+
+function findOutcome(element) {
+  const homeResult = {team: element['Home Team'], outcome: 0};
+  const awayResult = {team: element['Away Team'], outcome: 0};
+  if (element['Home Score'] > element['Away Score']) {
+    homeResult.outcome = 1;
+    awayResult.outcome = 0;
+  } else if (element['Away Score'] > element['Home Score']) {
+    homeResult.outcome = 0;
+    awayResult.outcome = 1;
+  }
+  return {homeResult, awayResult};
+}
+
+
 @Injectable({
   providedIn: 'root'
 })
 export class DataManagerService {
-
-
-  constructor() {
-  }
 
   private teams = [];
   private startDate: Date = new Date(data[0].Date);
@@ -72,18 +81,14 @@ export class DataManagerService {
 
   private decPlaces = 2;
 
+  constructor() {
+  }
+
   dateRange() {
     return {
       startDate: new Date(data[0].Date),
       endDate: new Date(data[data.length - 1].Date)
     };
-  }
-
-  roundRatio(n: number) {
-    if (isNaN(n)) {
-      return 1.00;
-    }
-    return n.toFixed(this.decPlaces);
   }
 
   getTeamInfo() {
@@ -92,6 +97,13 @@ export class DataManagerService {
 
   getSeasonInfo() {
     return seasonInfo;
+  }
+
+  roundRatio(n: number) {
+    if (isNaN(n)) {
+      return 1.00;
+    }
+    return n.toFixed(this.decPlaces);
   }
 
   teamColor(teamName: string) {

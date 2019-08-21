@@ -1,8 +1,6 @@
-/* tslint:disable:semicolon */
 import {Component, ElementRef, Input, OnInit} from '@angular/core';
 import {DataManagerService} from '../../services/data-manager.service';
 import * as d3 from 'd3/dist/d3.min.js';
-
 
 @Component({
   selector: 'app-bubble-vis',
@@ -18,7 +16,6 @@ export class BubbleVisComponent implements OnInit {
 
   auSelect = true;
   nzSelect = true;
-
 
   private ratios = {
     homeRatio: (team) => {
@@ -48,7 +45,6 @@ export class BubbleVisComponent implements OnInit {
   };
 
   private targetRatio = this.ratios.homeRatio;
-
 
   constructor(private container: ElementRef, private dataManager: DataManagerService) {
   }
@@ -134,7 +130,10 @@ export class BubbleVisComponent implements OnInit {
       .attr('fill', 'white');
   }
 
-  filterTeam(team: any) {
+  /**
+   * Removes or Adds a team from team filter depending if team is in team filter
+   */
+  selectTeam(team: any) {
     if (this.teamsFilter.includes(team)) {
       this.teamsFilter = this.teamsFilter.filter((item) => item !== team);
     } else {
@@ -143,6 +142,9 @@ export class BubbleVisComponent implements OnInit {
     this.dataManager.updateCallbacks();
   }
 
+  /**
+   * Selects all teams from country depending on global nzSelect or auSelect state
+   */
   selectAll() {
     this.teamsFilter = this.teamsFilter.filter((item) => item.country !== 'New Zealand');
     this.teamsFilter = this.teamsFilter.filter((item) => item.country !== 'Australia');
