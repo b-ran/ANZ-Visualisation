@@ -1,0 +1,11 @@
+#date-text {
+  position: absolute;
+  top: 88vh;
+  margin: 0 auto;
+  left: -10vw;
+  right: 0;
+  width: 200px;
+  font-family: 'Roboto', serif;
+  font-size: 1em;
+}
+

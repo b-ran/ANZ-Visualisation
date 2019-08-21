@@ -1,0 +1,62 @@
+[
+  {
+    "teamName": "Central Pulse",
+    "venue": "TSB Bank Arena, Wellington",
+    "country": "New Zealand",
+    "color": "#F7DE30"
+  },
+  {
+    "teamName": "Queensland Firebirds",
+    "venue": "Brisbane Convention & Exhibition Centre",
+    "country": "Australia",
+    "color": "#3C1053"
+  },
+  {
+    "teamName": "Northern Mystics",
+    "venue": "Trusts Stadium, Auckland",
+    "country": "New Zealand",
+    "color": "#4A90C8"
+  },
+  {
+    "teamName": "Waikato Bay of Plenty Magic",
+    "venue": "Energy Events Centre, Rotorua",
+    "country": "New Zealand",
+    "color": "#DE132D"
+  },
+  {
+    "teamName": "New South Wales Swifts",
+    "venue": "Acer Arena, Sydney",
+    "country": "Australia",
+    "color": "#0292CE"
+  },
+  {
+    "teamName": "Canterbury Tactix",
+    "venue": "Westpac Centre, Christchurch",
+    "country": "New Zealand",
+    "color": "#ED1C24"
+  },
+  {
+    "teamName": "Melbourne Vixens",
+    "venue": "State Netball and Hockey Centre, Melbourne",
+    "country": "Australia",
+    "color": "#15A18B"
+  },
+  {
+    "teamName": "West Coast Fever",
+    "venue": "Challenge Stadium, Perth",
+    "country": "Australia",
+    "color": "#039648"
+  },
+  {
+    "teamName": "Adelaide Thunderbirds",
+    "venue": "ETSA Park, Adelaide",
+    "country": "Australia",
+    "color": "#E71F68"
+  },
+  {
+    "teamName": "Southern Steel",
+    "venue": "Stadium Southland, Invercargill",
+    "country": "New Zealand",
+    "color": "#C5168D"
+  }
+]

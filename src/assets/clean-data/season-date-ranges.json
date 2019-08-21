@@ -1,0 +1,80 @@
+[
+  {
+    "seasonName": "All Seasons",
+    "startDate": "Saturday 5 April 2008",
+    "sliderStart": "Sunday 14 July 2013",
+    "endDate": "Sunday 14 July 2013"
+  },
+  {
+    "seasonName": "2008 - Season",
+    "startDate": "Saturday 5 April 2008",
+    "sliderStart": "Saturday 5 April 2008",
+    "endDate": "Monday 7 July 2008"
+  },
+  {
+    "seasonName": "2008 - Finals",
+    "startDate": "Saturday 5 April 2008",
+    "sliderStart": "Sunday 13 July 2008",
+    "endDate": "Monday 28 July 2008"
+  },
+  {
+    "seasonName": "2009 - Season",
+    "startDate": "Saturday 4 April 2009",
+    "sliderStart": "Saturday 4 April 2009",
+    "endDate": "Monday 6 July 2009"
+  },
+  {
+    "seasonName": "2009 - Finals",
+    "startDate": "Saturday 4 April 2009",
+    "sliderStart": "Sunday 12 July 2009",
+    "endDate": "Sunday 26 July 2009"
+  },
+  {
+    "seasonName": "2010 - Season",
+    "startDate": "Saturday 20 March 2010",
+    "sliderStart": "Saturday 20 March 2010",
+    "endDate": "Monday 21 June 2010"
+  },
+  {
+    "seasonName": "2010 - Finals",
+    "startDate": "Saturday 20 March 2010",
+    "sliderStart": "Sunday 27 June 2010",
+    "endDate": "Sunday 11 July 2010"
+  },
+  {
+    "seasonName": "2011 - Season",
+    "startDate": "Sunday 13 February 2011",
+    "sliderStart": "Sunday 13 February 2011",
+    "endDate": "Monday 2 May 2011"
+  },
+  {
+    "seasonName": "2011 - Finals",
+    "startDate": "Sunday 13 February 2011",
+    "sliderStart": "Sunday 8 May 2011",
+    "endDate": "Sunday 22 May 2011"
+  },
+  {
+    "seasonName": "2012 - Season",
+    "startDate": "Saturday 31 March 2012",
+    "sliderStart": "Saturday 31 March 2012",
+    "endDate": "Monday 2 July 2012"
+  },
+  {
+    "seasonName": "2012 - Finals",
+    "startDate": "Saturday 31 March 2012",
+    "sliderStart": "Sunday 8 July 2012",
+    "endDate": "Sunday 22 July 2012"
+  },
+  {
+    "seasonName": "2013 - Season",
+    "startDate": "Sunday 24 March 2013",
+    "sliderStart": "Sunday 24 March 2013",
+    "endDate": "Monday 24 June 2013"
+  },
+  {
+    "seasonName": "2013 - Finals",
+    "startDate": "Sunday 24 March 2013",
+    "sliderStart": "Sunday 30 June 2013",
+    "endDate": "Sunday 14 July 2013"
+  }
+]
