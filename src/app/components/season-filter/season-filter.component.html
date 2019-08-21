@@ -1,0 +1,5 @@
+<mat-form-field id="selection-title">
+  <mat-select [(value)]="selected">
+    <mat-option (click)="changeSeason(season)" *ngFor="let season of dataManager.getSeasonInfo()" [value]="season">{{season.seasonName}}</mat-option>
+  </mat-select>
+</mat-form-field>

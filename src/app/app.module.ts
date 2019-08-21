@@ -7,12 +7,14 @@ import {AppMaterialModule} from './app-material.module';
 import {MatSidenavModule, MatCheckboxModule} from '@angular/material';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { RangeSliderComponent } from './components/range-slider/range-slider.component';
+import { SeasonFilterComponent } from './components/season-filter/season-filter.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BubbleVisComponent,
-    RangeSliderComponent
+    RangeSliderComponent,
+    SeasonFilterComponent
   ],
   imports: [
     BrowserModule,

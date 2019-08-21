@@ -1,0 +1,9 @@
+#selection-title {
+  width: 50vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  right: 8vw;
+  text-align: center;
+  font-size: 1.5em;
+}
