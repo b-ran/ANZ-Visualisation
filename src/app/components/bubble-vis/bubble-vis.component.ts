@@ -18,31 +18,31 @@ export class BubbleVisComponent implements OnInit {
 
   auSelect = true;
   nzSelect = true;
-  private decPlaces = 2;
+
 
   private ratios = {
     homeRatio: (team) => {
       return {
         title: 'Home Wins Ratio',
-        ratio: (team.homeWins / team.homeGames).toFixed(this.decPlaces)
+        ratio: this.dataManager.roundRatio(team.homeWins / team.homeGames)
       };
     },
     awayRatio: (team) => {
       return {
         title: 'Away Wins Ratio',
-        ratio: (team.awayWins / team.awayGames).toFixed(this.decPlaces)
+        ratio: this.dataManager.roundRatio(team.awayWins / team.awayGames)
       };
     },
     winsRatio: (team) => {
       return {
         title: 'Wins Ratio',
-        ratio: ((team.homeWins + team.awayWins) / (team.homeGames + team.awayGames)).toFixed(this.decPlaces)
+        ratio: this.dataManager.roundRatio((team.homeWins + team.awayWins) / (team.homeGames + team.awayGames))
       };
     },
     interCountryRatio: (team) => {
       return {
         title: 'Inter Country Wins Ratio',
-        ratio: (team.interCountryWins / team.interCountryGames).toFixed(this.decPlaces)
+        ratio: this.dataManager.roundRatio(team.interCountryWins / team.interCountryGames)
       };
     }
   };
@@ -60,18 +60,16 @@ export class BubbleVisComponent implements OnInit {
   }
 
   setupDataCallback() {
-    this.dataManager.setCallback((result: Map<string, []>) => {
+    this.dataManager.addCallback((result) => {
       if (this.teamsFilter.length !== 0) {
         this.teamsFilter.forEach((item) => result.delete(item.teamName));
       }
       this.data = {children: Array.from(result.values())};
-
-
       this.drawSvg();
     });
   }
 
-  changeTargetRatio(ratio: (team) => { title: string; ratio: string }) {
+  changeTargetRatio(ratio) {
     this.targetRatio = ratio;
     this.drawSvg();
   }
@@ -142,7 +140,7 @@ export class BubbleVisComponent implements OnInit {
     } else {
       this.teamsFilter.push(team);
     }
-    this.dataManager.updateCallback();
+    this.dataManager.updateCallbacks();
   }
 
   selectAll() {
@@ -154,6 +152,6 @@ export class BubbleVisComponent implements OnInit {
     if (!this.auSelect) {
       this.dataManager.getTeamInfo().filter((item => item.country === 'Australia')).forEach((item) => this.teamsFilter.push(item))
     }
-    this.dataManager.updateCallback();
+    this.dataManager.updateCallbacks();
   }
 }
