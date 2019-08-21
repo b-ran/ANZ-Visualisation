@@ -101,7 +101,7 @@ export class DataManagerService {
 
   roundRatio(n: number) {
     if (isNaN(n)) {
-      return 1.00;
+      return 1;
     }
     return n.toFixed(this.decPlaces);
   }
